@@ -6,6 +6,10 @@
 
 主要添加了mwan3等常用插件，详见[.config](https://github.com/carrothu-cn/Actions-OpenWrt-k2p/blob/main/.config)文件配置。
 
+## 自取固件方法
+
+请前往本项目的[Actions](https://github.com/carrothu-cn/Actions-OpenWrt-k2p/actions)页面，自取最新编译Build OpenWrt的Artifacts文件。
+
 ## 感谢
 
 - [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
