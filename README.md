@@ -8,8 +8,8 @@
 
 ## 感谢
 
-- [P3TERX 的 Action 源码] (https://github.com/P3TERX/Actions-OpenWrt)
-- [Lean 的 OpenWrt 源码] (https://github.com/coolsnowwolf/lede)
+- [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
+- [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
@@ -27,4 +27,4 @@
 
 ## 证书
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © carrothu-cn
