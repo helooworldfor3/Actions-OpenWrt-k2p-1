@@ -1,6 +1,8 @@
-# 关于此固件
+# Actions-OpenWrt-k2p
 
-基于[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)，用Github Actions为K2P路由器自动编译固件。
+## 关于此固件
+
+基于[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)脚本，用Github Actions自动编译[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)项目中K2P A1 A2版本路由器固件。
 
 ## 包含软件包
 
@@ -12,8 +14,8 @@
 
 ## 感谢
 
-- [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
-- [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
+- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
