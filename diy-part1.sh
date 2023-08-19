@@ -22,4 +22,4 @@ echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.de
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #echo 'src-git tano https://github.com/tano-systems/luci-theme-tano' >>feeds.conf.default
 #echo 'src-git neobird https://github.com/thinktip/luci-theme-neobird' >>feeds.conf.default
-echo 'src-git netgear https://github.com/Aslin-Ameng/luci-theme-netgear' >>feeds.conf.default
+#echo 'src-git netgear https://github.com/Aslin-Ameng/luci-theme-netgear' >>feeds.conf.default
