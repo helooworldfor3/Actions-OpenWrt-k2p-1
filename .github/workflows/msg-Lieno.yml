@@ -11,10 +11,10 @@
 name: msg-padavan
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrt
+  REPO_URL: https://github.com/benboguan/openwrt-Lienol
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: one.config
+  CONFIG_FILE: Lieno.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
