@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: msg-Lieno
+name: beike-Lieno
 
 env:
   REPO_URL: https://github.com/benboguan/openwrt-Lienol
@@ -17,6 +17,7 @@ env:
   CONFIG_FILE: Lieno.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
+  DIY_P3_SH: lion.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
